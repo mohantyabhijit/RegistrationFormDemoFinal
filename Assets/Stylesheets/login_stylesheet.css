@@ -1,0 +1,31 @@
+/*
+===========================================================================
+FILE NAME : login_stylesheet.cs
+FILE TYPE : CASCADING STYLE SHEET
+PURPOSE : ADDS BASIC DESIGN ELEMENTS TO THE CFHML TAGS OF LOG IN PAGE
+DATE CREATED : 16/08/2016
+TIME CREATED : 11:54AM
+CREATED BY : Abhijit Mohanty
+===========================================================================
+*/
+body
+{
+	background-color:gray; 	
+	 
+}
+h1
+{
+	text-align:center;
+	margin-left:80px;
+	color:black;
+}
+form
+{
+	text-align:center;
+	width : 100px;
+	margin-left:45%;	
+}
+#formResult
+{
+	margin-left:28%;
+}
